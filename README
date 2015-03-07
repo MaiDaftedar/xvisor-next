@@ -6,6 +6,7 @@ Please read this document carefully, as it tell you what this is all about,
 explain how to build and use the hypervisor, and what to do if something 
 goes wrong.
 
+//MAI Checking
 WHAT IS XVISOR?
 
   The term Xvisor can stand for: "eXtensible Versatile hypervISOR".
